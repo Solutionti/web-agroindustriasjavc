@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{ asset('css/asclepio.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/asclepio.min.css') }}">
+    <!-- <link rel="stylesheet" href="https://demo.artureanec.com/html/agricom/css/style.min.css"> -->
     <title>AgroindustriasJAVC</title>
 </head>
 <body>
@@ -75,32 +76,32 @@
            deal clinically
         </p>
         <div class="row ">
-          <div class="col-md-3 mt-3">
+          <div class="col-md-3 mt-3 text-center">
             <img
               src="https://img.freepik.com/iconos-gratis/whatsapp_318-162854.jpg?w=2000"
               class="img-fluid"
-              width="90px;" 
+              width="70px;" 
             />
           </div>
-          <div class="col-md-3 mt-3">
+          <div class="col-md-3 mt-3 text-center">
             <img
               src="https://img.freepik.com/iconos-gratis/whatsapp_318-162854.jpg?w=2000"
               class="img-fluid"
-              width="90px;"
+              width="70px;"
             />
           </div>
-          <div class="col-md-3 mt-3">
+          <div class="col-md-3 mt-3 text-center">
             <img
               src="https://img.freepik.com/iconos-gratis/whatsapp_318-162854.jpg?w=2000"
               class="img-fluid"
-              width="90px;"
+              width="70px;"
             />
           </div>
-          <div class="col-md-3 mt-3">
+          <div class="col-md-3 mt-3 text-center">
             <img
               src="https://img.freepik.com/iconos-gratis/whatsapp_318-162854.jpg?w=2000"
               class="img-fluid"
-              width="90px;"
+              width="70px;"
             />
           </div>
         </div>
@@ -158,6 +159,55 @@
 <br>
 <br>
 <br>
+<div class="container">
+<div class="section-heading section-heading--left">
+  <h1 class="title">La línea de tiempo de Agroindustrias</h1>
+</div>
+<div class="timeline mt-5">
+  <div class="timeline__inner">
+	  <div class="row">
+		  <div class="col-md-3">
+			  <div class="timeline__item">
+				  <p class="timeline__year">1907</p>
+					  <h4 class="timeline__title">Smells Racy Free Announcing</h4>
+					<p>
+					  Vast a real proven works discount secure care. Market invigorate a awesome handcrafted
+            bigger comes
+					</p>
+				</div>
+			</div>
+			<div class="col-md-3">
+			  <div class="timeline__item">
+				  <p class="timeline__year">1994</p>
+					  <h4 class="timeline__title">Grainfarmers<br />Formed</h4>
+					<p>
+						Market invigorate a awesome handcrafted bigger comes newer recommended lifetime. 
+					</p>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="timeline__item">
+					<p class="timeline__year">2001</p>
+						<h4 class="timeline__title">Group Cereals and Lingrain Merge</h4>
+					<p>
+						Odor to yummy high racy bonus soaking mouthwatering. First superior full-bodied drink.
+					</p>
+				</div>
+			</div>
+			<div class="col-md-3">
+			  <div class="timeline__item">
+					<p class="timeline__year">2016</p>
+						<h4 class="timeline__title">Aquired Countrywide Farmers</h4>
+					<p>
+						First superior full-bodied drink. Like outstanding odor economical deal clinically 
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+ </div>
+</div>
+<br><br><br><br>
       <!-- FOOTER -->
       <footer class="page-footer font-small mdb-color pt-4">
       <div class="container text-center text-md-left">
