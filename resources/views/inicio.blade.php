@@ -38,17 +38,11 @@
 				<nav id="top-bar__navigation" role="navigation">
 					<ul>
 						<li class="current">
-							<a href="javascript:void(0);">Home</a>
-							<div class="submenu">
-								<ul>
-									<li class="current"><a href="index.html">Home Style 1</a></li>
-									<li><a href="../style_2/index.html" target="_blank">Home Style 2</a></li>
-									<li><a href="../landing/index.html" target="_blank">One Page</a></li>
-								</ul>
-							</div>
+							<a href="javascript:void(0);">Inicio</a>
+							
 						</li>
 						<li>
-							<a href="javascript:void(0);">Pages</a>
+							<a href="javascript:void(0);">Servicios</a>
 							<div class="submenu">
 								<ul>
 									<li><a href="about.html">about</a></li>
@@ -58,21 +52,9 @@
 								</ul>
 							</div>
 						</li>
-						<li>
-							<a href="javascript:void(0);">Gallery</a>
-
-							<div class="submenu">
-								<ul>
-									<li><a href="gallery_1.html">2 Columns</a></li>
-									<li><a href="gallery_2.html">3 Columns</a></li>
-									<li><a href="gallery_3.html">4 Columns</a></li>
-									<li><a href="gallery_4.html">Masonry</a></li>
-									<li><a href="gallery_5.html">Masonry 2</a></li>
-								</ul>
-							</div>
-						</li>
-						<li><a href="blog.html">Blog</a></li>
-						<li><a href="contacts.html">Contacts</a></li>
+						
+						<li><a href="blog.html">Acerca de </a></li>
+						<li><a href="contacts.html">Contacto</a></li>
 						<li class="li-btn"><a class="custom-btn primary" href="#spy-get-in-touch">Get in touch</a></li>
 					</ul>
 				</nav>
@@ -844,7 +826,7 @@
 					</div>
 				</div>
 			</section>
-			<section class="section jarallax" data-speed="0.4" data-img-position="50% 50%" style="background-image: url('../img/bg/bg_9.jpg');">
+			<section class="section jarallax" data-speed="0.4" data-img-position="50% 50%" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg">
 				<div class="container">
 					<div class="section-heading section-heading--center section-heading--white">
 						<h2 class="title">What People Says</h2>
@@ -947,12 +929,10 @@
 											<i class="fontello-location"></i>
 											523 Sylvan Ave, 5th Floor Mountain View, CA 94041USA
 										</p>
-
 										<p>
 											<i class="fontello-phone-call"></i>
 											+1 (234) 56789,  +1 987 654 3210
 										</p>
-
 										<p>
 											<i class="fontello-mail"></i>
 											<a href="mailto:support@watchland.com">support@watchland.com</a>
