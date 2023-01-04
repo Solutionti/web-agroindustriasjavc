@@ -60,8 +60,8 @@
 			<div class="pattern" style="opacity: 0.15;"></div>
 			<div class="container">
 				<div class="intro__text">
-					<p class="intro__subtitle">major</p>
-					<h1 class="intro__title">Products</h1>
+					<p class="intro__subtitle">mejores</p>
+					<h1 class="intro__title">Productos</h1>
 				</div>
 			</div>
 		</header>
@@ -71,7 +71,7 @@
 					<div class="row">
 						<div class="col-12 col-lg-4 col-xl-3">
 							<div class="col-MB-30">
-								<h2>AgriCom Farm Ecology Products</h2>
+								<h2>Agro Industrias JAVC</h2>
 							</div>
 						</div>
 						<div class="col-12 col-lg-8 col-xl-9">
@@ -226,7 +226,7 @@
 								<div class="col-sm-6 col-md-3">
 									<div class="counter__item">
 										<i class="counter__item__ico counter__item__ico--1"></i>
-										<p class="counter__item__count  js-count" data-from="0" data-to="200" data-after="k">200</p>
+										<p class="counter__item__count  js-count" data-from="0" data-to="100" data-after="k">100</p>
 										<p class="counter__item__title">Tons of Corn</p>
 									</div>
 								</div>
@@ -258,68 +258,7 @@
 					</div>
 				</div>
 			</section>
-		<footer id="footer" class="footer--style-1">
-			<div class="footer__inner">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6 col-lg-4">
-							<div class="footer__item">
-								<a class="site-logo" href="index.html">AGRICOM</a>
-
-								<p class="footer__copy">© 2019, Agricom. All rights reserved.<br />Template by <a href="https://themeforest.net/user/artureanec" target="_blank">Artureanec</a></p>
-							</div>
-						</div>
-						<div class="col-md-6 col-lg-4">
-							<div class="footer__item">
-								<h3 class="footer__title">Additional menu</h3>
-
-								<div class="row">
-									<div class="col">
-										<ul class="footer__menu">
-											<li><a href="#">Home</a></li>
-											<li><a href="#">Pages</a></li>
-											<li><a href="#">Blog</a></li>
-											<li><a href="#">Contacts</a></li>
-										</ul>
-									</div>
-
-									<div class="col">
-										<ul class="footer__menu">
-											<li><a href="#">My account</a></li>
-											<li><a href="#">Help Desk</a></li>
-											<li><a href="#">Support</a></li>
-											<li><a href="#">YOur order</a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-md-12 col-lg-4">
-							<div class="footer__item">
-								<h3 class="footer__title">Get a newslatter</h3>
-
-								<form class="footer__form form-horizontal" action="#">
-									<p>Effervescent the secure special. Kids spicey chance excellent proven too sleek handcrafted when makes intense</p>
-
-									<div class="b-table">
-										<div class="cell v-bottom">
-											<label class="input-wrp">
-												<input class="textfield" type="text" placeholder="Your E-mail" />
-											</label>
-										</div>
-
-										<div class="cell v-bottom">
-											<button class="custom-btn primary" type="submit" role="button">subscribe</button>
-										</div>
-									</div>
-								</form>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</footer>
+		
 		<!-- end footer -->
 
 		<div id="btn-to-top-wrap">

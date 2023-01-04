@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+	<link rel="stylesheet" href="css/fontello.css">
     <title>AgroindustriasJAVC</title>
     <script type="text/javascript">
 			WebFontConfig = {
@@ -54,7 +55,7 @@
 						
 						<li><a href="blog.html">Acerca de </a></li>
 						<li><a href="contacts.html">Contacto</a></li>
-						<li class="li-btn"><a class="custom-btn primary" href="#spy-get-in-touch">Get in touch</a></li>
+						<li class="li-btn"><a class="custom-btn primary" href="#spy-get-in-touch">Contactenos</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -64,8 +65,8 @@
 		<header id="start-screen" class="start-screen--style-1">
 			<div id="vegas-slider" data-dots="true">
 				<div class="vegas-control">
-					<span id="vegas-control__prev" class="vegas-control__btn">Prev</span>
-					<span id="vegas-control__next" class="vegas-control__btn">Next</span>
+					<span id="vegas-control__prev" class="vegas-control__btn">Anterior</span>
+					<span id="vegas-control__next" class="vegas-control__btn">Siguiente</span>
 				</div>
 			</div>
 
@@ -76,7 +77,7 @@
 							<div class="container">
 								<div class="row justify-content-center text-center">
 									<div class="col-12 col-xl-10">
-										<p class="title">Agricom</p>
+										<p class="title"></p>
 
 										<p class="subtitle">
 											agro company
@@ -94,7 +95,7 @@
 							<div class="container">
 								<div class="row justify-content-md-center text-center">
 									<div class="col-12 col-lg-10 col-xl-8">
-										<p class="title">Fruits</p>
+										<p class="title">Frutas</p>
 
 										<p>
 											Evulates vast a real proven works discount secure care. Market invigorate a awesome handcrafted bigger comes newer recommended lifetime. Odor to yummy high racy bonus soaking mouthwatering. First superior full-bodied drink. Like outstanding odor economical deal clinically
@@ -111,7 +112,7 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-12 col-md-8">
-										<p class="title">Fresh ideas</p>
+										<p class="title">MAQUINARIAS</p>
 									</div>
 								</div>
 							</div>
@@ -387,15 +388,15 @@
 									slides = [
 										{
 											name: "img 1",
-											src: 'https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg'
+											src: 'https://img.freepik.com/free-photo/farmland_1112-1236.jpg?w=826&t=st=1672781418~exp=1672782018~hmac=dd9585c059bed4f847b66343bf73ad141b8a725898f0d65819923a9b471f7a5e'
 										},
 										{
 											name: "img 2",
-											src: 'https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg'
+											src: 'https://img.freepik.com/free-photo/fruits-vegetables_1112-314.jpg?w=740&t=st=1672781498~exp=1672782098~hmac=64c882f54f7a39fa32926b6d4d1407f29bf3fb244df983a96e47e0950679631a'
 										},
 										{
 											name: "img 3",
-											src: 'https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg'
+											src: 'https://img.freepik.com/free-photo/aerial-drone-view-harvester-gathering-crops_1268-20614.jpg?w=826&t=st=1672781823~exp=1672782423~hmac=a0021249937e971eac52accd3707b7ccab7aa8ee124ecabbd6761df2cd01e4dd'
 										}
 									],
 									slider_content = $('.start-screen__content'),
@@ -466,21 +467,17 @@
 					<div class="row">
 						<div class="col-12 col-lg-4 col-xl-3">
 							<div class="col-MB-30">
-								<h2>AgriCom Farm Ecology Products</h2>
+								<h2>Agro Industrias JAVC</h2>
 							</div>
 						</div>
 						<div class="col-12 col-lg-8 col-xl-9">
 							<div class="col-MB-30">
 								<h4>
-									Smells racy free announcing than durable zesty smart exotic far feel.
-                  Screamin' affordable secret way absolutely.
+								Somos una empresa dedicada a la producción,transformación y comercialización de productos agrícolas.
 								</h4>
 
-								<p>
-									 Evulates vast a real proven works discount secure care. Market invigorate
-                   a awesome handcrafted bigger comes newer recommended lifetime. Odor to 
-                   yummy high racy bonus soaking mouthwatering. First superior full-bodied 
-                   drink. Like outstanding odor economical deal clinically 
+								<p align="justify">
+								 Aportando gran valor en el desarrollo de cultivos de acuerdo al mercado peruano llegando a satisfacer las necesidades de nuestros agricultores y consumidores,generando confianza, bienestar y desarrollo sostenible en las comunidades. 
 								</p>
 							</div>
 							<div class="feature feature--style-1">
@@ -489,32 +486,32 @@
 										<div class="col">
 											<div class="feature__item">
 												<i class="feature__item__ico feature__item__ico--1"></i>
-												<h3 class="feature__item__title  h4">Agriculture<br />Products</h3>
+												<h3 class="feature__item__title  h4">Productos<br />Agricolas</h3>
 											</div>
 										</div>
 										<div class="col">
 											<div class="feature__item">
 												<i class="feature__item__ico feature__item__ico--2"></i>
 
-												<h3 class="feature__item__title  h4">Fresh<br />Vegatables</h3>
+												<h3 class="feature__item__title  h4">Vegetales<br />Frescos</h3>
 											</div>
 										</div>
 										<div class="col">
 											<div class="feature__item">
 												<i class="feature__item__ico feature__item__ico--3"></i>
-												<h3 class="feature__item__title  h4">Different<br />Livestock</h3>
+												<h3 class="feature__item__title  h4">Asesoramiento<br />en cultivos</h3>
 											</div>
 										</div>
 										<div class="col">
 											<div class="feature__item">
 												<i class="feature__item__ico feature__item__ico--4"></i>
-												<h3 class="feature__item__title  h4">Farm<br />Factory</h3>
+												<h3 class="feature__item__title  h4">Ferilizantes<br />Orgánicos</h3>
 											</div>
 										</div>
 										<div class="col">
 											<div class="feature__item">
 												<i class="feature__item__ico feature__item__ico--5"></i>
-												<h3 class="feature__item__title  h4">Modern<br />Technique</h3>
+												<h3 class="feature__item__title  h4">Equipos<br />y Maquinarias</h3>
 											</div>
 										</div>
 									</div>
@@ -529,29 +526,29 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="col-MB-30">
-								<h2>The Largest Crop Ever</h2>
-								<h4>Smells racy free announcing than durable zesty smart exotic far feel. Screamin' affordable secret way absolutely.</h4>
+								<h2>Importancia de la producción agricola</h2>
+								<h4></h4>
 							</div>
-							<p>
-								Stimulates vast a real proven works discount secure care. Market invigorate a awesome handcrafted bigger comes newer recommended lifetime. 
+							<p align="justify">
+							La agricultura puede ayudar a reducir la pobreza, aumentar los ingresos y mejorar la seguridad alimentaria para el 80 % de los pobres del mundo, los cuales viven en las zonas rurales y se dedican principalmente a labores agrícolas. 
 							</p>
-							<p>
-								Stimulates vast a real proven works discount secure care. Market invigorate a awesome handcrafted bigger comes newer recommended lifetime. Evulates vast a real proven works discount secure care. Market invigorate a awesome handcrafted bigger comes newer recommended lifetime. Odor to yummy high racy bonus soaking mouthwatering. First superior 
+							<p align="justify">
+							Aprovechar adecuadamente los recursos naturales y materias primas, generando insumos agropecuarios que contribuyan al mejoramiento tecnológico de la producción. 
 							</p>
-							<p class="d-lg-none"><img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" alt="demo" /></p>
+							<p class="d-lg-none"><img class="img-fluid" src="" alt="demo" /></p>
 							<p class="col-lg-MB-20">&nbsp;</p>
 							<p>
-								<a class="custom-btn primary big" href="#">Find out more</a>
+								<a class="custom-btn primary big" href="#">Leer mas</a>
 							</p>
 						</div>
 					</div>
 				</div>
-				<div class="img-place" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg');"></div>
+				<div class="img-place" style="background-image: url('https://img.freepik.com/free-photo/portrait-senior-hardworking-farmer-agronomist-soybean-field-holding-thumbs-up-checking-crops-before-harvest_342744-1262.jpg?w=740&t=st=1672784952~exp=1672785552~hmac=23801ae6311f70ec4cf35edaee86d626a24bd3f29bb2866916ea19ef57c0c63f');"></div>
 			</section>
 			<section class="section section--background-base-light section--background-logo">
 				<div class="container">
 					<div class="section-heading section-heading--left">
-						<h2 class="title">The Openfield Timeline</h2>
+						<h2 class="title">Linea de tiempo JAVC</h2>
 					</div>
 					<div class="timeline">
 						<div class="timeline__inner">
@@ -607,21 +604,20 @@
 							<div class="row no-gutters">
 								<div class="col-12 col-md-6 col-lg-4 col-xl-3 align-self-sm-center">
 									<div class="gallery__item gallery__item--text">
-										<h2>Our Products</h2>
-										<p>
-											Appetizing luscious savor hot senses. Effervescent the secure special.
-                       Kids spicey chance
+										<h2>Producimos</h2>
+										<p align="justify">
+										Proveemos la mejor selección de pimientos, paltas y mangos frescos, bajo los más altos estándares de calidad
 										</p>
-										<a class="gallery-more-link" href="gallery_3.html">VIEw gallery</a>
+										<a class="gallery-more-link" href="gallery_3.html">Ver galeria</a>
 									</div>
 								</div>
 								<div class="col-12 col-md-6 col-lg-4 col-xl-3">
 									<div class="gallery__item">
 										<div class="gallery__item__inner">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/gall_img/4_col/2.jpg');" alt="demo" />
+												<img src="https://img.freepik.com/free-photo/high-angle-view-green-yellow-red-bell-peppers-white-background_23-2147927257.jpg?w=740&t=st=1672786157~exp=1672786757~hmac=604b7af275463cab0b8e6117a62175eb0a12e74915ebbca19366607d8f39c67d" style="background-image: url('../img/gall_img/4_col/2.jpg');" alt="demo" />
 												<a class="gallery__item__description">
-													<span class="gallery__item__title">Our Farm</span>
+													<span class="gallery__item__title">Pimientos</span>
 													<span class="gallery__item__subtitle">Life Style</span>
 												</a>
 											</figure>
@@ -632,10 +628,10 @@
 									<div class="gallery__item">
 										<div class="gallery__item__inner">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/gall_img/4_col/3.jpg');" alt="demo" />
+												<img src="https://img.freepik.com/free-photo/avocado-dark-wood-background_1205-769.jpg?1&w=740&t=st=1672786341~exp=1672786941~hmac=69be8cc653c2cc9ea698198f577051eaf60f4d771540bf21fbc798ddea4c06ee" style="background-image: url('../img/gall_img/4_col/3.jpg');" alt="demo" />
 												<a class="gallery__item__description" href="../img/gall_img/4_col/3.jpg" data-gallery="gall">
-													<span class="gallery__item__title">Awesome Fields</span>
-													<span class="gallery__item__subtitle">Crops</span>
+													<span class="gallery__item__title">Palta</span>
+													<span class="gallery__item__subtitle">Hass, Fuerte y Naval</span>
 												</a>
 											</figure>
 										</div>
@@ -645,10 +641,10 @@
 									<div class="gallery__item">
 										<div class="gallery__item__inner">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/gall_img/4_col/4.jpg');" alt="demo" />
+												<img src="https://as1.ftcdn.net/v2/jpg/02/53/35/16/1000_F_253351640_tA11RCm0tSXtMEdPI9uvxb6Dv0jM5qZo.jpg" style="background-image: url('../img/gall_img/4_col/4.jpg');" alt="demo" />
 												<a class="gallery__item__description" href="../img/gall_img/4_col/4.jpg" data-gallery="gall">
-													<span class="gallery__item__title">Fresh Grape</span>
-													<span class="gallery__item__subtitle">Fruits</span>
+													<span class="gallery__item__title">Maracuya</span>
+													<span class="gallery__item__subtitle"></span>
 												</a>
 											</figure>
 										</div>
@@ -658,10 +654,10 @@
 									<div class="gallery__item">
 										<div class="gallery__item__inner">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/gall_img/4_col/5.jpg');" alt="demo" />
+												<img src="https://img.freepik.com/free-photo/red-fresh-strawberries-with-green-leaves_114579-10498.jpg?w=740&t=st=1672786663~exp=1672787263~hmac=83c3091fb9ca3f61d1a4aacd0422665a4df941a38215e996a5bec1618097b579" style="background-image: url('../img/gall_img/4_col/5.jpg');" alt="demo" />
 												<a class="gallery__item__description" href="../img/gall_img/4_col/5.jpg" data-gallery="gall">
-													<span class="gallery__item__title">Sweet Redis</span>
-													<span class="gallery__item__subtitle">Vegatables</span>
+													<span class="gallery__item__title">Fresa</span>
+													<span class="gallery__item__subtitle"></span>
 												</a>
 											</figure>
 										</div>
@@ -671,10 +667,10 @@
 									<div class="gallery__item">
 										<div class="gallery__item__inner">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/gall_img/4_col/6.jpg');" alt="demo" />
+												<img src="https://img.freepik.com/free-photo/closeup-fresh-papaya-fruit-sliced-half-isolated-white-surface_181624-31919.jpg?w=740&t=st=1672786745~exp=1672787345~hmac=d927e8c69c6a0e0644a9669736bb6bf59038a53bdc625a222627a262fc570013" style="background-image: url('../img/gall_img/4_col/6.jpg');" alt="demo" />
 												<a class="gallery__item__description" href="../img/gall_img/4_col/6.jpg#" data-gallery="gall">
-													<span class="gallery__item__title">Huge Wheat</span>
-													<span class="gallery__item__subtitle">Crops</span>
+													<span class="gallery__item__title">Papaya</span>
+													<span class="gallery__item__subtitle"></span>
 												</a>
 											</figure>
 										</div>
@@ -684,11 +680,11 @@
 									<div class="gallery__item">
 										<div class="gallery__item__inner">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/gall_img/4_col/7.jpg');" alt="demo" />
+												<img src="https://img.freepik.com/premium-photo/aji-brazilian-pumpkin-peppers-paths_770611-1303.jpg?w=740" style="background-image: url('../img/gall_img/4_col/7.jpg');" alt="demo" />
 
 												<a class="gallery__item__description" href="../img/gall_img/4_col/7.jpg" data-gallery="gall">
-													<span class="gallery__item__title">Hot Papper</span>
-													<span class="gallery__item__subtitle">Vegatables</span>
+													<span class="gallery__item__title">Ají</span>
+													<span class="gallery__item__subtitle">Papicra , Panca</span>
 												</a>
 											</figure>
 										</div>
@@ -698,11 +694,11 @@
 									<div class="gallery__item">
 										<div class="gallery__item__inner">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/gall_img/4_col/8.jpg');" alt="demo" />
+												<img src="https://img.freepik.com/free-photo/various-legumes_53876-47070.jpg?w=740&t=st=1672787060~exp=1672787660~hmac=1c8494d2fcea66e186b2b09f2f031ab0ae072f12b8d742220cb4a9bd269e4af8" style="background-image: url('../img/gall_img/4_col/8.jpg');" alt="demo" />
 
 												<a class="gallery__item__description" href="../img/gall_img/4_col/8.jpg" data-gallery="gall">
-													<span class="gallery__item__title">Beautiful Carrots</span>
-													<span class="gallery__item__subtitle">Vegatables</span>
+													<span class="gallery__item__title">Frijol</span>
+													<span class="gallery__item__subtitle">Castilla , Canario</span>
 												</a>
 											</figure>
 										</div>
@@ -716,7 +712,7 @@
 			<section class="section">
 				<div class="container">
 					<div class="section-heading section-heading--left">
-						<h2 class="title">Blog Posts</h2>
+						<h2 class="title">Servicios</h2>
 					</div>
 					<div class="blog blog--style-2">
 						<div class="row align-items-md-center">
@@ -726,19 +722,19 @@
 										<div class="col-md-6 col-lg-8 col-xl-6">
 											<div class="blog__entry">
 												<div class="blog__post-date">
-													<span>23</span>
-													<span>JUL<br />2016</span>
+													<span></span>
+													<span><br /></span>
 												</div>
-												<h3 class="blog__entry__title"><a href="blog_post.html">Agriculture Products</a></h3>
-												<span class="blog__entry__meta">Cows | 4 Comments</span>
-												<p>
-													Appetizing luscious savor hot senses. Effervescent the secure special. Kids spicey chance excellent proven too
+												<h3 class="blog__entry__title"><a href="blog_post.html">Instalaciones de riegos tecnificado</a></h3>
+												<span class="blog__entry__meta"></span>
+												<p align="justify" >
+												La eficiencia productiva del riego tecnificado se puede expresar como la cantidad de productos agrícolas obtenidos por cada metro cúbico aplicado de agua
 												</p>
 											</div>
 										</div>
 										<div class="col-md-6 col-lg-4 col-xl-6">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/blog_img/1.jpg');" alt="demo">
+												<img src="https://fica.ufro.cl/wp-content/uploads/2018/03/FC-objetivos-riego-tecnificado-2.jpg" style="background-image: url('../img/blog_img/1.jpg');" alt="demo">
 											</figure>
 										</div>
 									</div>
@@ -750,20 +746,19 @@
 										<div class="col-md-6 col-lg-8 col-xl-6">
 											<div class="blog__entry">
 												<div class="blog__post-date">
-													<span>07</span>
-													<span>APR<br />2016</span>
+													<span></span>
+													<span><br /></span>
 												</div>
-												<h3 class="blog__entry__title"><a href="blog_post.html">Crispy citrus exclusive</a></h3>
-												<span class="blog__entry__meta">Cows | 4 Comments</span>
-												<p>
-													Appetizing luscious savor hot senses. Effervescent the secure special. Kids spicey
-                          chance excellent proven too
+												<h3 class="blog__entry__title"><a href="blog_post.html">Fertilizantes Organicos</a></h3>
+												<span class="blog__entry__meta"></span>
+												<p align="justify">
+												El biol, es elaborado a partir del estiércol de los animales. El proceso se lo realiza en un biodigestor, es un poco lento, pero da buen resultado; a más de obtener un abono orgánico natural.
 												</p>
 											</div>
 										</div>
 										<div class="col-md-6 col-lg-4 col-xl-6">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/blog_img/4.jpg');" alt="demo">
+												<img src="https://ornamentalis.com/wp-content/uploads/2017/10/fertilizantes-organicos.jpg" style="background-image: url('../img/blog_img/4.jpg');" alt="demo">
 											</figure>
 										</div>
 									</div>
@@ -919,33 +914,33 @@
 						<div class="col-12 col-md-6 bg-1">
 							<div class="item">
 								<header class="item__header">
-									<h2 class="item__title">Contacts</h2>
-									<p class="item__subtitle">Mega bold action. Sold care wherever less appetizing your far easily</p>
+									<h2 class="item__title">Contacto</h2>
+									<p class="item__subtitle">Puede contarnos a nuestros números o redes sociales.</p>
 								</header>
 								<div class="company-contacts">
 									<address>
 										<p>
 											<i class="fontello-location"></i>
-											523 Sylvan Ave, 5th Floor Mountain View, CA 94041USA
+											Mz.Q Lote. 19 Villa Hermosa - J.L.O-Chiclayo-Lambayeque
 										</p>
 										<p>
-											<i class="fontello-phone-call"></i>
-											+1 (234) 56789,  +1 987 654 3210
+											<i class="fontello-whatsapp"></i>
+											+51 960 920 603,  +51 937 477 831
 										</p>
 										<p>
-											<i class="fontello-mail"></i>
-											<a href="mailto:support@watchland.com">support@watchland.com</a>
+											<i class="fontello-comment"></i>
+											<a href="">ventas@agroindustriasjavc.com</a>
 										</p>
 									</address>
 									<div class="social-btns">
 										<div class="social-btns__inner">
 											<a class="fontello-twitter" href="#" target="_blank"></a>
-											<a class="fontello-facebook" href="#" target="_blank"></a>
 											<a class="fontello-linkedin-squared" href="#" target="_blank"></a>
 											<a class="fontello-youtube" href="#" target="_blank"></a>
 											<a class="fontello-gplus" href="#" target="_blank"></a>
 											<a class="fontello-vimeo" href="#" target="_blank"></a>
 											<a class="fontello-vkontakte" href="#" target="_blank"></a>
+											<a class="fontello-facebook-squared " href="#" target="_blank"></a>
 											<a class="fontello-instagram" href="#" target="_blank"></a>
 										</div>
 									</div>
@@ -955,28 +950,28 @@
 						<div class="col-12 col-md-6 bg-2">
 							<div class="item">
 								<header class="item__header">
-									<h2 class="item__title">Get In Touch</h2>
+									<h2 class="item__title">Contactenos</h2>
 									<p class="item__subtitle">Vinyl grown remarkable in survey wherever parents are it's. Mega bold action. Sold care</p>
 								</header>
 
 								<form class="f1 js-contact-form" action="#">
 									<label class="input-wrp">
 										<i class="fontello-user"></i>
-										<input class="textfield" type="text" placeholder="You name" name="name" />
-									</label>
-
-									<label class="input-wrp">
-										<i class="fontello-mail"></i>
-										<input class="textfield" type="text" placeholder="E-mail" name="email" />
+										<input class="textfield" type="text" placeholder="Tu nombre" name="name" />
 									</label>
 
 									<label class="input-wrp">
 										<i class="fontello-comment"></i>
-										<textarea class="textfield" placeholder="Comment" name="message"></textarea>
+										<input class="textfield" type="text" placeholder="Correo" name="email" />
+									</label>
+
+									<label class="input-wrp">
+										<i class="fontello-commenting"></i>
+										<textarea class="textfield" placeholder="Mensaje" name="message"></textarea>
 									</label>
 
 									<div class="btn-wrp">
-										<button class="custom-btn long" type="submit" role="button">Send a message</button>
+										<button class="custom-btn long" type="submit" role="button">Enviar mensaje</button>
 									</div>
 
 									<div class="form__note"></div>
@@ -985,8 +980,8 @@
 						</div>
 						<div class="col-12">
 							<div class="item map-container">
-								<div class="g_map" data-longitude="44.958309" data-latitude="34.109925" data-marker="../img/marker.png"></div>
-							</div>
+							<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d495.27100282433463!2d-79.81807197444144!3d-6.749352464016219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x904ce90b5dbb7c81%3A0x86591abd01217a59!2sMinimarket%20Cotrina!5e0!3m2!1ses-419!2spe!4v1672769293913!5m2!1ses-419!2spe"
+                    			width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 						</div>
 					</div>
 				</div>
@@ -999,27 +994,27 @@
 						<div class="col-md-6 col-lg-4">
 							<div class="footer__item">
 								<a class="site-logo" href="index.html">AGRICOM</a>
-								<p class="footer__copy">© 2019, Agricom. All rights reserved.<br />Template by <a href="https://themeforest.net/user/artureanec" target="_blank">Artureanec</a></p>
+								<p class="footer__copy">© 2023, SolutionTI. All rights reserved.<br />Template by <a href="" target="_blank">SolutionTI</a></p>
 							</div>
 						</div>
 						<div class="col-md-6 col-lg-4">
 							<div class="footer__item">
-								<h3 class="footer__title">Additional menu</h3>
+								<h3 class="footer__title">Menu Adicional</h3>
 								<div class="row">
 									<div class="col">
 										<ul class="footer__menu">
-											<li><a href="#">Home</a></li>
-											<li><a href="#">Pages</a></li>
+											<li><a href="#">Inicio</a></li>
+											<li><a href="#">Paginas</a></li>
 											<li><a href="#">Blog</a></li>
-											<li><a href="#">Contacts</a></li>
+											<li><a href="#">Contacto</a></li>
 										</ul>
 									</div>
 									<div class="col">
 										<ul class="footer__menu">
-											<li><a href="#">My account</a></li>
-											<li><a href="#">Help Desk</a></li>
-											<li><a href="#">Support</a></li>
-											<li><a href="#">YOur order</a></li>
+											<li><a href="#">Mi Cuenta</a></li>
+											<li><a href="#">Mesa de ayuda</a></li>
+											<li><a href="#">Soporte</a></li>
+											<li><a href="#">Tu orden</a></li>
 										</ul>
 									</div>
 								</div>
@@ -1037,7 +1032,7 @@
 											</label>
 										</div>
 										<div class="cell v-bottom">
-											<button class="custom-btn primary" type="submit" role="button">subscribe</button>
+											<button class="custom-btn primary" type="submit" role="button">Subscribete</button>
 										</div>
 									</div>
 								</form>

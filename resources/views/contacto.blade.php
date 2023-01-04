@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+	<link rel="stylesheet" href="css/fontello.css">
     <title>Contacto</title>
     <!-- CSS
 		================================================== -->
@@ -39,14 +40,14 @@
 		<!-- start top bar -->
 		<div id="top-bar" class="top-bar--style-1">
 			<div class="container">
-				<a id="top-bar__logo" class="site-logo" href="index.html">AGRICOM</a>
+				<a id="top-bar__logo" class="site-logo" href="index.html">AGRO INDUSTRIAS JVAC</a>
 
 				<a id="top-bar__navigation-toggler" href="javascript:void(0);"><span></span></a>
 
 				<nav id="top-bar__navigation" role="navigation">
 					<ul>
 						<li>
-							<a href="javascript:void(0);">Home</a>
+							<a href="javascript:void(0);">Inicio</a>
 
 							<div class="submenu">
 								<ul>
@@ -83,19 +84,19 @@
 						</li>
 						<li><a href="blog.html">Blog</a></li>
 						<li class="current"><a href="contacts.html">Contacts</a></li>
-						<li class="li-btn"> <a class="custom-btn primary" href="#spy-get-in-touch">Get in touch</a></li>
+						<li class="li-btn"> <a class="custom-btn primary" href="#spy-get-in-touch">Escribenos</a></li>
 					</ul>
 				</nav>
 			</div>
 		</div>
-		<header class="intro  align-items-center  jarallax" data-speed="0.5" data-img-position="50% 32%" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg');">
+		<header class="intro  align-items-center  jarallax" data-speed="0.5" data-img-position="50% 32%" style="background-image: url('https://img.freepik.com/free-photo/beautiful-shot-green-field-surrounded-by-high-mountains-cloudy-sky_181624-46614.jpg?w=740&t=st=1672775572~exp=1672776172~hmac=1ec56ea85b26ec12f704422db4a071401efef8ba44d8544874a7bedbe8aafa4a');">
 
 			<div class="pattern" style="opacity: 0.15;"></div>
 
 			<div class="container">
 				<div class="intro__text">
-					<p class="intro__subtitle">agricom</p>
-					<h1 class="intro__title">Contacts</h1>
+					<p class="intro__subtitle">Agroindustrias JAVC</p>
+					<h1 class="intro__title">contacto</h1>
 				</div>
 			</div>
 		</header>
@@ -108,22 +109,22 @@
 								<div class="col-md-4 col-lg-3">
 									<div class="contact__item">
 										<i class="contact__item__ico fontello-location"></i>
-										<h4 class="contact__item__title">Adress</h4>
+										<h4 class="contact__item__title">Dirección</h4>
 										<p>
-											123 Sky Tower, West 21th Street,
-											<br />
-											Suite 721, NY
-										</p>
+										Mz.Q Lote. 19 Villa Hermosa
+											<br /><small>
+										J.L.O-Chiclayo-Lambayeque
+										</small></p>
 									</div>
 								</div>
 								<div class="col-md-4 col-lg-3">
 									<div class="contact__item">
-										<i class="contact__item__ico fontello-phone-call"></i>
-										<h4 class="contact__item__title">Phone</h4>
+										<i class="contact__item__ico fontello-whatsapp"></i>
+										<h4 class="contact__item__title">Celular</h4>
 										<p>
-											+844 123 456 789
+											+51 960 920 603
 											<br />
-											+844 123 456 789
+											+51 937 477 831
 										</p>
 									</div>
 								</div>
@@ -131,12 +132,12 @@
 									<div class="contact__item">
 										<i class="contact__item__ico fontello-mail"></i>
 
-										<h4 class="contact__item__title">Email</h4>
+										<h4 class="contact__item__title">Correo</h4>
 
 										<p>
-											<a href="mailto:contact@company.com">contact@company.com</a>
+											<a href="ventas@agroindustriasjavc.com">ventas@agroindustriasjavc.com</a>
 											<br />
-											<a href="mailto:info@company.com">info@company.com</a>
+											
 										</p>
 									</div>
 								</div>
@@ -145,22 +146,23 @@
 					</div>
 				</div>
 			</section>
-			<!-- <section class="section section--no-pt">
-				<div class="container">
-					<div class="map-container">
-						<div class="g_map" data-longitude="44.958309" data-latitude="34.109925" data-marker="../img/marker.png"></div>
-					</div>
-				</div>
-			</section> -->
+			<section class="__section wow fadeInUp animated home-section time-table-section pd-top-extra">
+        	<div class="auto-container" >           
+            <div class="table-outer">
+			<p align="center"><iframe class="container" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d495.27100282433463!2d-79.81807197444144!3d-6.749352464016219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x904ce90b5dbb7c81%3A0x86591abd01217a59!2sMinimarket%20Cotrina!5e0!3m2!1ses-419!2spe!4v1672769293913!5m2!1ses-419!2spe"
+                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+    </section>
 			<section class="section section--no-pt">
 				<div class="container">
-					<h4 class="h2">Send Message</h4>
+					<h4 class="h2">Enviar mensaje</h4>
 
 					<form class="js-contact-form" action="#">
 						<div class="row">
 							<div class="col-md">
 								<label class="input-wrp">
-									<input class="textfield" type="text" placeholder="You name" name="name" />
+									<input class="textfield" type="text" placeholder="Tu nombre" name="name" />
 								</label>
 							</div>
 
@@ -171,10 +173,10 @@
 							</div>
 						</div>
 						<label class="input-wrp">
-							<textarea class="textfield" placeholder="Comment" name="message"></textarea>
+							<textarea class="textfield" placeholder="Mensaje" name="message"></textarea>
 						</label>
 
-						<button class="custom-btn primary" type="submit" role="button">Send</button>
+						<button class="custom-btn primary" type="submit" role="button">Enviar</button>
 
 						<div class="form__note"></div>
 					</form>
@@ -188,52 +190,45 @@
 						<div class="col-md-6 col-lg-4">
 							<div class="footer__item">
 								<a class="site-logo" href="index.html">AGRICOM</a>
-
-								<p class="footer__copy">© 2019, Agricom. All rights reserved.<br />Template by <a href="https://themeforest.net/user/artureanec" target="_blank">Artureanec</a></p>
+								<p class="footer__copy">© 2023, SolutionTI. All rights reserved.<br />Template by <a href="" target="_blank">SolutionTI</a></p>
 							</div>
 						</div>
 						<div class="col-md-6 col-lg-4">
 							<div class="footer__item">
-								<h3 class="footer__title">Additional menu</h3>
-
+								<h3 class="footer__title">Menu Adicional</h3>
 								<div class="row">
 									<div class="col">
 										<ul class="footer__menu">
-											<li><a href="#">Home</a></li>
-											<li><a href="#">Pages</a></li>
+											<li><a href="#">Inicio</a></li>
+											<li><a href="#">Paginas</a></li>
 											<li><a href="#">Blog</a></li>
-											<li><a href="#">Contacts</a></li>
+											<li><a href="#">Contacto</a></li>
 										</ul>
 									</div>
-
 									<div class="col">
 										<ul class="footer__menu">
-											<li><a href="#">My account</a></li>
-											<li><a href="#">Help Desk</a></li>
-											<li><a href="#">Support</a></li>
-											<li><a href="#">YOur order</a></li>
+											<li><a href="#">Mi Cuenta</a></li>
+											<li><a href="#">Mesa de ayuda</a></li>
+											<li><a href="#">Soporte</a></li>
+											<li><a href="#">Tu orden</a></li>
 										</ul>
 									</div>
 								</div>
 							</div>
 						</div>
-
 						<div class="col-md-12 col-lg-4">
 							<div class="footer__item">
-								<h3 class="footer__title">Get a newslatter</h3>
-
+								<h3 class="footer__title">subscribirte a noticias</h3>
 								<form class="footer__form form-horizontal" action="#">
-									<p>Effervescent the secure special. Kids spicey chance excellent proven too sleek handcrafted when makes intense</p>
-
+									<p>Ingresa tu correo para enviarte las ultimas noticias que tenemos para ti</p>
 									<div class="b-table">
 										<div class="cell v-bottom">
 											<label class="input-wrp">
-												<input class="textfield" type="text" placeholder="Your E-mail" />
+												<input class="textfield" type="text" placeholder="Tu E-mail" />
 											</label>
 										</div>
-
 										<div class="cell v-bottom">
-											<button class="custom-btn primary" type="submit" role="button">subscribe</button>
+											<button class="custom-btn primary" type="submit" role="button">Subscribete</button>
 										</div>
 									</div>
 								</form>
