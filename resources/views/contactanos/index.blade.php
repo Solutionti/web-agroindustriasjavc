@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-	<link rel="stylesheet" href="css/fontello.css">
+	<link rel="stylesheet" href="../css/fontello.css">
     <title>Contacto</title>
     <!-- CSS
 		================================================== -->
@@ -154,32 +154,52 @@
             </div>
         </div>
     </section>
+	<section class="section section--no-pt">
+			</section>
 			<section class="section section--no-pt">
 				<div class="container">
 					<h4 class="h2">Enviar mensaje</h4>
 
-					<form class="js-contact-form" action="#">
+					<form class="js-contact-form" action="{{route ("contactanos.store")}}" method="POST">
+						
+						@csrf
 						<div class="row">
 							<div class="col-md">
 								<label class="input-wrp">
 									<input class="textfield" type="text" placeholder="Tu nombre" name="name" />
 								</label>
+							@error("name")
+							<p><strong>{{$message}}</strong></p>
+							@enderror
 							</div>
-
+							
 							<div class="col-md">
 								<label class="input-wrp">
 									<input class="textfield" type="text" placeholder="E-mail" name="email" />
 								</label>
+								@error("email")
+							<p><strong>{{$message}}</strong></p>
+							@enderror
 							</div>
+							
 						</div>
+						
 						<label class="input-wrp">
 							<textarea class="textfield" placeholder="Mensaje" name="message"></textarea>
+							@error("message")
+							<p><strong>{{$message}}</strong></p>
+							@enderror
 						</label>
-
+						
 						<button class="custom-btn primary" type="submit" role="button">Enviar</button>
 
 						<div class="form__note"></div>
 					</form>
+					@if(session("info"))
+						<script>
+							alert("{{session("info")}}");
+						</script>
+					@endif
 				</div>
 			</section>
 		</main>

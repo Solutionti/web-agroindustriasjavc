@@ -770,19 +770,19 @@
 										<div class="col-md-6 col-lg-8 col-xl-6">
 											<div class="blog__entry">
 												<div class="blog__post-date">
-													<span>19</span>
-													<span>JUL<br />2016</span>
+													<span></span>
+													<span><br /></span>
 												</div>
-												<h3 class="blog__entry__title"><a href="blog_post.html">Waxy latest also drink</a></h3>
-												<span class="blog__entry__meta">Cows | 4 Comments</span>
-												<p>
-													Appetizing luscious savor hot senses. Effervescent the secure special. Kids spicey chance excellent proven too
+												<h3 class="blog__entry__title"><a href="blog_post.html">Equipos y Maquinarias</a></h3>
+												<span class="blog__entry__meta"></span>
+												<p align="justify">
+												Son el conjunto de máquinas, equipos y herramientas para transformar energía o realizar cualquier trabajo que los agricultores requieran. En sí, una maquina agrícola son piezas fijas, móviles y con autonomía de funcionamiento de un motor para desplazarse por el campo y desarrollar su trabajo.
 												</p>
 											</div>
 										</div>
 										<div class="col-md-6 col-lg-4 col-xl-6">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/blog_img/3.jpg');" alt="demo">
+												<img src="https://img.freepik.com/free-photo/ploughing-heavy-tractor-during-cultivation-agriculture-works-field-with-plough_268835-915.jpg?w=740&t=st=1672876170~exp=1672876770~hmac=387f89c3c5ec5adb47a84e8ef115273175eed20b33a759890d0237abde2b7e1d" style="background-image: url('../img/blog_img/3.jpg');" alt="demo">
 											</figure>
 										</div>
 									</div>
@@ -794,20 +794,19 @@
 										<div class="col-md-6 col-lg-8 col-xl-6">
 											<div class="blog__entry">
 												<div class="blog__post-date">
-													<span>01</span>
-													<span>APR<br />2016</span>
+													<span></span>
+													<span><br /></span>
 												</div>
-												<h3 class="blog__entry__title"><a href="blog_post.html">Agriculture Products</a></h3>
-												<span class="blog__entry__meta">Cows | 4 Comments</span>
-												<p>
-													Appetizing luscious savor hot senses. Effervescent the secure 
-                          special. Kids spicey chance excellent proven too
+												<h3 class="blog__entry__title"><a href="blog_post.html">Asesoramiento técnico en cultivo</a></h3>
+												<span class="blog__entry__meta"></span>
+												<p align="justify">
+												Contamos con un amplio conocimiento del entorno es algo muy importante para un correcto desempeño de un terreno agrícola. De esta forma se podrá explotar al máximo todo su potencial y hacer que tanto el terreno como sus trabajos estén optimizados al máximo.
 												</p>
 											</div>
 										</div>
 										<div class="col-md-6 col-lg-4 col-xl-6">
 											<figure>
-												<img src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" style="background-image: url('../img/blog_img/2.jpg');" alt="demo">
+												<img src="https://img.freepik.com/free-photo/man-taking-care-his-farm-close-up_23-2148580028.jpg?w=740&t=st=1672876931~exp=1672877531~hmac=db6635ab9cf5d7f10f509e5090e357e3b01ccb386fb29959e7af312bc216b801" style="background-image: url('../img/blog_img/2.jpg');" alt="demo">
 											</figure>
 										</div>
 									</div>
@@ -815,7 +814,7 @@
 							</div>
 						</div>
 						<div class="text-center">
-							<a id="blog-more-btn" class="custom-btn big primary" href="blog.html">See all posts</a>
+							<a id="blog-more-btn" class="custom-btn big primary" href="blog.html">Ver mas servicios</a>
 						</div>
 					</div>
 				</div>
@@ -823,7 +822,7 @@
 			<section class="section jarallax" data-speed="0.4" data-img-position="50% 50%" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg">
 				<div class="container">
 					<div class="section-heading section-heading--center section-heading--white">
-						<h2 class="title">What People Says</h2>
+						<h2 class="title">Nuestros Colaboradores</h2>
 					</div>
 					<div class="row justify-content-md-center">
 						<div class="col-lg-10">
@@ -832,21 +831,21 @@
 									<article class="feedback__item">
 										<div class="feedback__author">
 											<div class="feedback__author__photo  mx-auto">
-												<img class="circled  img-fluid" src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" height="140" width="140" alt="demo" />
+												<img class="circled" src="https://img.freepik.com/premium-photo/farmer-working-coffee-field-sunset-outdoor_88235-2.jpg?w=826" height="140" width="140" alt="demo" />
 											</div>
-											<h4 class="feedback__author__name">Alex Roberts</h4>
-											<p class="feedback__author__position">Farmer, AgroHolding</p>
+											<h4 class="feedback__author__name">Cesar Cotrina</h4>
+											<p class="feedback__author__position">Ingeniero Agricola</p>
 										</div>
 										<div class="feedback__text">
 											<p>
-												“Absorbent lower warranty smart deluxe lasting sporty fast customer spring rated. Free every challenge your spicey racy. Introducing handcrafted credit-card like supreme monster just hurry fresh outlasts flip quality. 
+											Absorbent lower warranty smart deluxe lasting sporty fast customer spring rated. Free every challenge your spicey racy. Introducing handcrafted credit-card like supreme monster just hurry fresh outlasts flip quality. Value far mouthwatering wherever try offer ultra aroma 
 											</p>
 										</div>
 									</article>
 									<article class="feedback__item">
 										<div class="feedback__author">
 											<div class="feedback__author__photo  mx-auto">
-												<img class="circled  img-fluid" src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" height="140" width="140" alt="demo" />
+												<img class="circled" src="https://img.freepik.com/premium-photo/farmer-working-coffee-field-sunset-outdoor_88235-2.jpg?w=826" height="140" width="140" alt="Responsive image" />
 											</div>
 											<h4 class="feedback__author__name">Alex Roberts</h4>
 											<p class="feedback__author__position">Farmer, AgroHolding</p>
@@ -860,7 +859,7 @@
 									<article class="feedback__item">
 										<div class="feedback__author">
 											<div class="feedback__author__photo  mx-auto">
-												<img class="circled  img-fluid" src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" height="140" width="140" alt="demo" />
+												<img class="circled" src="https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg" height="140" width="140" alt="demo" />
 											</div>
 
 											<h4 class="feedback__author__name">Alex Roberts</h4>
@@ -879,34 +878,34 @@
 					</div>
 				</div>
 			</section>
-			<section class="section">
+			<!-<section class="section">
 				<div class="container">
 					<div class="partners">
 						<div class="partners__inner">
 							<div class="row">
 								<div class="col-6 col-sm-4 col-lg-2">
-									<img class="img-fluid" src="../img/partners_img/1.jpg" alt="demo" />
+									<img class="img-fluid" src="" />
 								</div>
 								<div class="col-6 col-sm-4 col-lg-2">
-									<img class="img-fluid" src="../img/partners_img/2.jpg" alt="demo" />
+									<img class="img-fluid" src="" />
 								</div>
 								<div class="col-6 col-sm-4 col-lg-2">
-									<img class="img-fluid" src="../img/partners_img/3.jpg" alt="demo" />
+									<img class="img-fluid" src="" />
 								</div>
 								<div class="col-6 col-sm-4 col-lg-2">
-									<img class="img-fluid" src="../img/partners_img/4.jpg" alt="demo" />
+									<img class="img-fluid" src="" />
 								</div>
 								<div class="col-6 col-sm-4 col-lg-2">
-									<img class="img-fluid" src="../img/partners_img/5.jpg" alt="demo" />
+									<img class="img-fluid" src="" />
 								</div>
 								<div class="col-6 col-sm-4 col-lg-2">
-									<img class="img-fluid" src="../img/partners_img/6.jpg" alt="demo" />
+									<img class="img-fluid" src="" />
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			</section>
+			</section>-->
 			<a id="spy-get-in-touch" class="ancor"></a>
 			<section class="section-contact">
 				<div class="container-fluid">
@@ -915,7 +914,7 @@
 							<div class="item">
 								<header class="item__header">
 									<h2 class="item__title">Contacto</h2>
-									<p class="item__subtitle">Puede contarnos a nuestros números o redes sociales.</p>
+									<p class="item__subtitle">Puede comunicarse a nuestros números o traves de las redes sociales.</p>
 								</header>
 								<div class="company-contacts">
 									<address>
@@ -950,11 +949,11 @@
 						<div class="col-12 col-md-6 bg-2">
 							<div class="item">
 								<header class="item__header">
-									<h2 class="item__title">Contactenos</h2>
-									<p class="item__subtitle">Vinyl grown remarkable in survey wherever parents are it's. Mega bold action. Sold care</p>
+									<h2 class="item__title">Contáctenos</h2>
+									<p class="item__subtitle">Puede comunicarse con nosotros a traves del formulario, para mas información.</p>
 								</header>
 
-								<form class="f1 js-contact-form" action="#">
+								<form class="f1 js-contact-form" action="enviar.php" method="post" >
 									<label class="input-wrp">
 										<i class="fontello-user"></i>
 										<input class="textfield" type="text" placeholder="Tu nombre" name="name" />
@@ -978,6 +977,13 @@
 								</form>
 							</div>
 						</div>
+						<section class="section">
+						
+						<div class="text">
+						<h2 align="center">Ubícanos</h2>
+						
+						</div>
+						</section>
 						<div class="col-12">
 							<div class="item map-container">
 							<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d495.27100282433463!2d-79.81807197444144!3d-6.749352464016219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x904ce90b5dbb7c81%3A0x86591abd01217a59!2sMinimarket%20Cotrina!5e0!3m2!1ses-419!2spe!4v1672769293913!5m2!1ses-419!2spe"
@@ -1022,13 +1028,13 @@
 						</div>
 						<div class="col-md-12 col-lg-4">
 							<div class="footer__item">
-								<h3 class="footer__title">Get a newslatter</h3>
+								<h3 class="footer__title">Boletin de noticias</h3>
 								<form class="footer__form form-horizontal" action="#">
-									<p>Effervescent the secure special. Kids spicey chance excellent proven too sleek handcrafted when makes intense</p>
+									<p>Digita tu correo para enterarte lo ultimo de nuestra empresa</p>
 									<div class="b-table">
 										<div class="cell v-bottom">
 											<label class="input-wrp">
-												<input class="textfield" type="text" placeholder="Your E-mail" />
+												<input class="textfield" type="text" placeholder="Tu E-mail" />
 											</label>
 										</div>
 										<div class="cell v-bottom">
