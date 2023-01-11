@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 	<link rel="stylesheet" href="css/fontello.css">
+	<script src="https://kit.fontawesome.com/6def79921a.js" crossorigin="anonymous"></script>
     <title>AgroindustriasJAVC</title>
     <script type="text/javascript">
 			WebFontConfig = {
@@ -510,7 +511,7 @@
 										</div>
 										<div class="col">
 											<div class="feature__item">
-												<i class="feature__item__ico feature__item__ico--5"></i>
+												<i class="fa-solid fa-tractor"></i>
 												<h3 class="feature__item__title  h4">Equipos<br />y Maquinarias</h3>
 											</div>
 										</div>
